@@ -19,11 +19,14 @@ st.write("""My name is Shreenithi.B.I am from coimbatore.
 st.write("My hobbies are listening to music,reading books and chatting with my friends")
 st.write("Email address:abc1234@gmail.com")
 st.write("Linked in profile:Shreenithi Balasubramani")
+st.title("CERTIFICATIONS")
 st.write("""1)Certification:project based on AI  in daily life.
          2)eigen values analysis based project.3)cloud and deveops expert... """)
 st.write("Experience:zoho(1year)")
 st.write("I have also been teamleader for 2 projects")
-st.write("My talents are read and write fast.Im havinhg a good communication")
+st.write("""My talents are read and write fast.Im havinhg a good communication.My short term goal is to get a job.
+         And my long term goal is to built to build a own house in my own salary.""")
+
 
 Dict={'Institution Name':['Avila convent school','KG college'],'Phone number':[8970897654],'Address':['vadavalli, coimbatore']}
 st.dataframe(Dict)
